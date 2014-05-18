@@ -1,0 +1,35 @@
+{
+  "name": "sloth",
+  "version": "0.0.0",
+  "description": "A static site generator for lazy people",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slothjs/sloth"
+  },
+  "keywords": [
+    "blog",
+    "static",
+    "generator"
+  ],
+  "author": "",
+  "contributors": [
+    {
+      "name": "Jordan Scales",
+      "email": "scalesjordan@gmail.com"
+    },
+    {
+      "name": "Kenny Goff",
+      "email": "goff.kenneth@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slothjs/sloth/issues"
+  },
+  "homepage": "https://github.com/slothjs/sloth",
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "gulp-markdown": "^0.1.2"
+  }
+}
