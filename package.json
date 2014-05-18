@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/slothjs/sloth"
   },
+  "bin": {
+    "sloth": "./bin/sloth"
+  },
   "keywords": [
     "blog",
     "static",

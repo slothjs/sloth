@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+var sloth = require('../lib');
+
+sloth();
