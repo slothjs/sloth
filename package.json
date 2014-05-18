@@ -30,6 +30,7 @@
   "homepage": "https://github.com/slothjs/sloth",
   "dependencies": {
     "gulp": "^3.6.2",
-    "gulp-markdown": "^0.1.2"
+    "gulp-markdown": "^0.1.2",
+    "gulp-rename": "^1.2.0"
   }
 }
